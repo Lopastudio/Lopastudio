@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lopastudio
-- 👀 I’m interested in djing and programming in general
-- 🌱 I’m currently learning c++ and c#
-- 📫 You can reach to me using my website https://lopastudio.sk/ 
+- 👋 Hi, I’m Patrik
+- 👀 I’m interested in HAM Radio and programming.
+- 🌱 I’m currently learning C#
+- 📫 You can reach out to me using my website https://lopastudio.sk/ 
